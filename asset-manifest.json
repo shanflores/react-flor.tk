@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-flor.tk/static/css/main.320af9ff.css",
+    "main.js": "/react-flor.tk/static/js/main.ac0b96f2.js",
+    "static/js/787.d860eeab.chunk.js": "/react-flor.tk/static/js/787.d860eeab.chunk.js",
+    "static/media/shan.jpg": "/react-flor.tk/static/media/shan.bb6e95a65076033fa6c5.jpg",
+    "index.html": "/react-flor.tk/index.html",
+    "main.320af9ff.css.map": "/react-flor.tk/static/css/main.320af9ff.css.map",
+    "main.ac0b96f2.js.map": "/react-flor.tk/static/js/main.ac0b96f2.js.map",
+    "787.d860eeab.chunk.js.map": "/react-flor.tk/static/js/787.d860eeab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.320af9ff.css",
+    "static/js/main.ac0b96f2.js"
+  ]
+}
